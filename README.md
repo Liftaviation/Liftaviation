@@ -1,16 +1,16 @@
-### Hallo :3
+# About Me... 
+<div id="badges">
+<a href="https://twitter.com/liftsaviation">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://mrlift.gay">
+  <img src="https://img.shields.io/badge/My%20Links%20page-20B2AA?style=for-the-badge" alt="My Website"/>
+  </a>
 
-<!--
-**Liftaviation/Liftaviation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+ 
+### 🏳️‍🌈 🏳️‍⚧️
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hallo! I am Ari (They/Them), I have many hobbies and projects.
+My GitHub looks dead because most of my repo's are private!
+I am trying my best to learn things and progress my knowledge in various languages 
