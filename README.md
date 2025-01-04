@@ -11,6 +11,6 @@
  
 ### 🏳️‍🌈 🏳️‍⚧️
 
-Hallo! I am Ari (They/Them), I have many hobbies and projects.
+Hallo! I am Ari (She/They), I have many hobbies and projects.
 My GitHub looks dead because most of my repo's are private!
 I am trying my best to learn things and progress my knowledge in various languages 
